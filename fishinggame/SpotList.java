@@ -1,4 +1,4 @@
-package enshuA6;
+package fishinggame;
 
 public class SpotList {
     private Spot[] spots = {

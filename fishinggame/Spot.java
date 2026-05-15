@@ -1,4 +1,4 @@
-package enshuA6;
+package fishinggame;
 
 public class Spot {
     private String name;
