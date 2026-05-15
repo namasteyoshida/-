@@ -1,4 +1,4 @@
-package enshuA6;
+package fishinggame;
 
 import java.util.Random;
 
