@@ -18,3 +18,5 @@ public class Fish {
     }
 
 }
+
+aiueokakikukeko
