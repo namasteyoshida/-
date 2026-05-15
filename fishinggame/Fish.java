@@ -19,4 +19,4 @@ public class Fish {
 
 }
 
-明洞
+aiueokakikukeko
